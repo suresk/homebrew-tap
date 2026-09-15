@@ -1,6 +1,6 @@
 cask "portmon" do
-  version "0.9.1"
-  sha256 "3cffad095bc3f544b05639fabb502e2c0e9407f716ffcd2303935adefbe6a083"
+  version "0.9.2"
+  sha256 "2bbd53159b94000321df32549fbe6b9aa6fa00e9899e7e54315d7f0346e3acc2"
 
   url "https://github.com/suresk/portmon/releases/download/v#{version}/PortMon-#{version}.dmg"
   name "PortMon"
