@@ -1,6 +1,6 @@
 cask "certmon" do
-  version "1.0.1"
-  sha256 "fdced6788cd38468448b18cfa10260aab76722571b4e9de9ccddd924889cb028"
+  version "1.0.2"
+  sha256 "cf9e45ee05516ecfe840cd829979b73816ecb722a3b89a36f8a45f24b98052a0"
 
   url "https://github.com/suresk/certmon/releases/download/v#{version}/CertMon-#{version}.dmg"
   name "CertMon"
