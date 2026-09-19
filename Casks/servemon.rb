@@ -1,6 +1,6 @@
 cask "servemon" do
-  version "0.1.0"
-  sha256 "c4c27c790af48bcf7d18216963a4fcffa904caf05b9b98caf3ff22c55d3ddb78"
+  version "0.1.1"
+  sha256 "c5e29643c54f62c381506f2bde71e836f6f877773700bd7ecc9b973cc6eaaa86"
 
   url "https://github.com/suresk/servemon/releases/download/v#{version}/ServeMon-#{version}.dmg"
   name "ServeMon"
@@ -17,8 +17,7 @@ cask "servemon" do
 
   app "ServeMon.app"
 
-  uninstall launchctl: "com.suresk.servemon.helper",
-            quit:      "com.suresk.servemon"
+  uninstall quit: "com.suresk.servemon"
 
   zap trash: [
     "~/Library/Preferences/com.suresk.servemon.plist",
