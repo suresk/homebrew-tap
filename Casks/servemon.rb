@@ -1,6 +1,6 @@
 cask "servemon" do
-  version "0.1.2"
-  sha256 "7381426593792dcf4b97978644214327096aeeecc803bf4eee66ee6333a919c5"
+  version "0.1.3"
+  sha256 "803e0dae1c9a0981060863cc8eac552f102740bef4aab76e7f0abd559a9ea6cc"
 
   url "https://github.com/suresk/servemon/releases/download/v#{version}/ServeMon-#{version}.dmg"
   name "ServeMon"
