@@ -1,6 +1,6 @@
 cask "gitmon" do
-  version "0.1.0"
-  sha256 "9e04e057a6a7374055079936e1391e1a7e1a6043fed0751d44c769a7ddf50135"
+  version "0.1.1"
+  sha256 "b0ac09d093d9d54943f1e70577fb5ad43f2c53ee3de309176c442b86f48b00c7"
 
   url "https://github.com/suresk/gitmon/releases/download/v#{version}/GitMon-#{version}.dmg"
   name "GitMon"
