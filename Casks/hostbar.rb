@@ -1,6 +1,6 @@
 cask "hostbar" do
-  version "0.1.2"
-  sha256 "8bb47ec597d54f54a201779b9b8cf2781fc0af00d1fc01bff5b0d7e74d0010c7"
+  version "0.1.3"
+  sha256 "06fc5d35e5ed48278d16b752f830a758c719ff7fb16971777ee6136e1b30f5ba"
 
   url "https://github.com/suresk/hostbar/releases/download/v#{version}/HostBar-#{version}.dmg"
   name "HostBar"
