@@ -1,6 +1,6 @@
 cask "redactbar" do
-  version "1.0.0"
-  sha256 "06fd264b8cfc346f735fdb953532c3f4d845586e07949ecb27afbca471669c60"
+  version "1.0.1"
+  sha256 "61552f7e0719882c987e4875901a58fe922e4da2acfe92c6f6b79bc09e62effb"
 
   url "https://github.com/suresk/redactbar/releases/download/v#{version}/RedactBar-#{version}.dmg"
   name "RedactBar"
