@@ -1,6 +1,6 @@
 cask "cronmon" do
-  version "0.2.1"
-  sha256 "268bc4d4cfb5c50d515660f631950c4ab0a56f6188870410669517ffd299ad45"
+  version "0.2.2"
+  sha256 "629b58f0706e08fd58ad5ef360a5aeebec3a50b7a77c567c793312845e58088e"
 
   url "https://github.com/suresk/cronmon/releases/download/v#{version}/CronMon-#{version}.dmg"
   name "CronMon"
