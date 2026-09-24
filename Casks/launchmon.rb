@@ -1,6 +1,6 @@
 cask "launchmon" do
-  version "0.1.2"
-  sha256 "afce8a514d58cfab4966d8f2c77c677ddcc7d161389c56a0b60f2b0d73bdbb6b"
+  version "0.1.3"
+  sha256 "f44016e895067340dd1a5cfce5c30d617bdcb2bcaa0653f3b3cb9eb6b5cd00c4"
 
   url "https://github.com/suresk/launchmon/releases/download/v#{version}/LaunchMon-#{version}.dmg"
   name "LaunchMon"
