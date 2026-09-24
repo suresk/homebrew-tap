@@ -1,6 +1,6 @@
 cask "gaugemon" do
-  version "0.1.0"
-  sha256 "1f4f95ea1aa9f80b78164f6e621327ba58ae3f43724e1ffb288e8bde98fc7f4f"
+  version "0.2.0"
+  sha256 "4ca414c9b7a4ca749bf67e6c464b735ac2a62bafd73d31048a3d2d82af3f8101"
 
   url "https://github.com/suresk/gaugemon/releases/download/v#{version}/GaugeMon-#{version}.dmg"
   name "GaugeMon"
