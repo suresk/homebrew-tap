@@ -1,6 +1,6 @@
 cask "webhookmon" do
-  version "0.1.0"
-  sha256 "0d1ede07b005bab2f526491bc8cd310e569116e24e53640821c0a9432647f625"
+  version "0.1.1"
+  sha256 "43263b901a4e99a9cb1832b8d6e45f5c5ed916fa71d4819a91959c991a720a38"
 
   url "https://github.com/suresk/webhookmon/releases/download/v#{version}/WebhookMon-#{version}.dmg"
   name "WebhookMon"
