@@ -1,6 +1,6 @@
 cask "eventbar" do
-  version "0.1.0"
-  sha256 "2f5133cce177daf8f8f4a25214272473bc0d0e9353043ef2acaec14bc41833ed"
+  version "0.1.1"
+  sha256 "4b3a04161e3e249de0596a09499562cca0069b94b8f1ebb3d9d786e290739504"
 
   url "https://github.com/suresk/eventbar/releases/download/v#{version}/EventBar-#{version}.dmg"
   name "EventBar"
